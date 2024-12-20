@@ -1,8 +1,8 @@
 import 'package:first_api_project/services/networking.dart';
 import 'package:first_api_project/services/location.dart';
 import 'package:geolocator/geolocator.dart';
+import 'package:first_api_project/services/apiKey.dart';
 
-const apiKey = '8c6fae469723bbb43c7fcbb5552c8714';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 class WeatherModel {
 
