@@ -1,5 +1,4 @@
 import 'package:first_api_project/services/networking.dart';
-import 'package:first_api_project/services/location.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:first_api_project/services/apiKey.dart';
 

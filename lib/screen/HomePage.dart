@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'bloc/weather_event.dart';
-import 'bloc/weather_state.dart';
-import 'locationScreen.dart';
+import '../bloc/weather_event.dart';
+import '../bloc/weather_state.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:first_api_project/services/weather.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'bloc/weather_bloc.dart';
+import '../bloc/weather_bloc.dart';
+import 'locationScreen.dart';
 
 
 class HomePage extends StatefulWidget {
